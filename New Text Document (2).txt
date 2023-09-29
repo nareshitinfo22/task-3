@@ -1,0 +1,69 @@
+  Chat
+Chat
+Polls
+Madhusudhanareddy
+HI Ashok 
+9:35
+Madhusudhanareddy
+Hi Vijay let me know when you are ready 
+9:40
+vijay kumar
+yes sir 
+9:41
+Madhusudhanareddy
+install tomcat 
+9:43
+Madhusudhanareddy
+install apache 
+9:43
+Madhusudhanareddy
+install tomcat on /u02/tomcat 
+9:44
+Madhusudhanareddy
+install pache on /u02/apache 
+9:44
+Madhusudhanareddy
+/u02 
+9:44
+Madhusudhanareddy
+/u01 
+9:44
+Madhusudhanareddy
+/apps 
+9:45
+Madhusudhanareddy
+/opt 
+9:45
+Madhusudhanareddy
+step1 
+9:45
+Madhusudhanareddy
+https://github.com/isurunix/tomcat-install-script/blob/master/tomcat-install-script.sh
+ 
+10:01
+Madhusudhanareddy
+install JAVA in linux 
+10:10
+Madhusudhanareddy
+set JAVA_HOME in classpath 
+10:11
+Madhusudhanareddy
+how to validate 
+10:11
+Madhusudhanareddy
+echo $JAVA_HOME 
+10:11
+Madhusudhanareddy
+/opt/java 
+10:11
+Madhusudhanareddy
+https://github.com/chrishantha/install-java
+ 
+10:13
+Madhusudhanareddy
+https://download.oracle.com/java/19/latest/jdk-19_linux-x64_bin.tar.gz
+ 
+10:14
+Madhusudhanareddy
+https://docs.oracle.com/en/java/javase/19/install/installation-jdk-linux-platforms.html#GUID-ADC9C14A-5F51-4C32-802C-9639A947317F
+ 
